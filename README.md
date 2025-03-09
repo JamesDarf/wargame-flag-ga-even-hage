@@ -8,7 +8,7 @@
 even하게 정리하면 flag를 드리겠습니다.
 
 ## 문제 풀이
-문제에서는 아래와 같이 based txt가 제공 된다.
+문제에는 아래와 같이 based txt가 제공 된다.
 
 ```
 based txt : 
